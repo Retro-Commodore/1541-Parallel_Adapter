@@ -1,4 +1,5 @@
 # 1541-Parallel_Adapter
+(This is still untestet, but should work)
 This is an adapter to easier add a parallel port for the Commodore 1541 and 1541-II diskette drive.
 
 Item list.
