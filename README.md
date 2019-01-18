@@ -12,7 +12,7 @@ All items can be found on eBay or your favorite electronics pusher.
 
 Pin 1 from the PCB connects to Pin 1 of the D-sub connector, 2 to 2 etc.
 
-**Let the PCB be as thin as possible. Testet is a 0.8mm thick adapter.**
+**Let the PCB be as thin as possible, otherwise you need thicker washers. Testet is a 0.8mm thick adapter. **
 
 Washers is needed for the 1541-II drive to lift the mechanical parts.
 1.6mm (2 x 0.8mm) height with an inner diameter of 4mm is sufficient to lift the drive.
