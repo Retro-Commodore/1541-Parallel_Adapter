@@ -1,5 +1,5 @@
 # 1541-Parallel_Adapter
-This is an adapter to easier add a parallel port for the Commodore 1541 and 1541-II diskettedrive.
+This is an adapter to easier add a parallel port for the Commodore 1541 and 1541-II diskette drive.
 
 Item list.
 * 15CM 10 wire flatcable.
