@@ -5,7 +5,7 @@ You can (and should) read more on Peter's site https://ist.uwaterloo.ca/~scheper
 Item list.
 * 15CM 10 wire flatcable.
   * or 8 wire flatcable for ZoomFloppy.
-* 15pin D-sub female(not the VGA type), either solder or for IDC ribbon cable (last one recommended).
+* 15pin D-sub female(not the VGA type connector), either solder or for IDC ribbon cable (last one recommended).
 * 40 pins IC socket.
 * 2 x 20 pins sil header male-male. (turned/tulip recommended).
 
