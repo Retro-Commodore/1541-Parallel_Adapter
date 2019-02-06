@@ -49,7 +49,10 @@ Pin 8 | Pin 8
 
 
 
-If you choose to use the connector to press the IDC connector and don't want to use a 15 pin cable wasting 7 wires, you can hook it up like this
+If you choose to use the connector to press the IDC connector and don't want to use a 15 pin cable wasting 7 wires, you can hook it up like this.
+
+![Installed](/Pics/installed.jpg)
+
 
 ![SolderPins](/Pics/forDoc/15FemaleIDC.jpg)
 
