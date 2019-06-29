@@ -82,6 +82,8 @@ Pin 8 | Pin 12
 
 
 
+On 1541 shortboard the chip is UC3, and on the long board it's UAB1.
+
 
 
 Many thanks to [Peter Schepers](https://ist.uwaterloo.ca/~schepers/1541par.html).
