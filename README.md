@@ -19,6 +19,9 @@ It hasn't been physically testet on a 1541 drive, if you're intending to use thi
 
 Connecting the adapter to ZoomFloppy is described below, if you need to connect the drive to a C64, you should visit Peter's site for more help.
 
+
+On 1541 shortboard the chip is UC3, and on the long board it's UAB1.
+
 For solder pins
 ![SolderPins](/Pics/forDoc/15Female.jpg)
 
@@ -80,9 +83,6 @@ Pin 6 | Pin 11
 Pin 7 | Pin 4
 Pin 8 | Pin 12
 
-
-
-On 1541 shortboard the chip is UC3, and on the long board it's UAB1.
 
 
 
