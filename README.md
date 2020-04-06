@@ -1,4 +1,4 @@
-# 1541-Parallel_Adapter
+# RCEU1505 - 1541-Parallel_Adapter
 This is an adapter to easier add a parallel port for the Commodore 1541 and 1541-II diskette drive.
 You can (and should) read more on Peter's site https://ist.uwaterloo.ca/~schepers/1541par.html
 
